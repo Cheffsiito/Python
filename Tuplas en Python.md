@@ -46,20 +46,30 @@ print(tupla_repetida)  # Output: (1, 2, 1, 2, 1, 2)
 ```
 # Métodos de las Tuplas
 count(): Devuelve el número de veces que aparece un elemento en la tupla.
+
 index(): Devuelve el índice de la primera aparición de un elemento en la tupla.
 
 # Ejercicios
 **1-** Crea una tupla llamada mi_tupla con elementos del 1 al 5.
 
 **2-** Accede al tercer elemento de la tupla mi_tupla.
+
 **3-** Concatena dos tuplas y guarda el resultado en una nueva variable.
+
 **4-** Repite una tupla tres veces y guarda el resultado en una nueva variable.
+
 **5-** Escribe una función que tome una tupla como argumento y devuelva la suma de todos los elementos.
+
 **6-** Escribe una función que tome una tupla como argumento y devuelva una nueva tupla con solo los elementos únicos.
+
 **7-** Escribe una función que tome dos tuplas como argumentos y devuelva una nueva tupla que contenga solo los elementos que aparecen en ambas tuplas.
+
 **8-** Escribe una función que tome una lista de tuplas como argumento y devuelva una nueva tupla que contenga el elemento más grande de cada tupla.
+
 **9-** Escribe una función que tome una lista de números como argumento y devuelva una tupla con el número más grande y el número más pequeño.
+
 **10-** Escribe una función que tome una tupla de cadenas como argumento y devuelva una nueva tupla donde cada cadena tenga la primera letra en mayúscula.
+
 
 
 **1-**
