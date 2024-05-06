@@ -50,6 +50,7 @@ index(): Devuelve el índice de la primera aparición de un elemento en la tupla
 
 # Ejercicios
 **1-** Crea una tupla llamada mi_tupla con elementos del 1 al 5.
+
 **2-** Accede al tercer elemento de la tupla mi_tupla.
 **3-** Concatena dos tuplas y guarda el resultado en una nueva variable.
 **4-** Repite una tupla tres veces y guarda el resultado en una nueva variable.
